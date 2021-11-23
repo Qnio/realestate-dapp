@@ -1,0 +1,380 @@
+[
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1384&q=80"
+    ],
+    "marketType": "sell",
+    "price": 3200000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1000000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Adelaide",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1548&q=80"
+    ],
+    "marketType": "sell",
+    "price": 2200000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 900000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 800000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 700000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 600000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Adelaide",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1576493169316-0745093ae312?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 500000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1594348352429-159508d48c57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1774&q=80"
+    ],
+    "marketType": "sell",
+    "price": 400000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1596178067639-5c6e68aea6dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 300000
+  },
+  {
+    "type": "Unit",
+    "unit": "5",
+    "streetNumber": "3",
+    "streetName": "Gould",
+    "streetType": "Street",
+    "city": "Brisbane",
+    "state": "QLD",
+    "photos": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2053&q=80"
+    ],
+    "marketType": "sell",
+    "price": 2200000
+  },
+  {
+    "type": "Unit",
+    "unit": "6",
+    "streetNumber": "66",
+    "streetName": "Prolong",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 1000
+  },
+  {
+    "type": "Unit",
+    "unit": "12",
+    "streetNumber": "5",
+    "streetName": "Curlewis",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1200000
+  },
+  {
+    "type": "Unit",
+    "unit": "5",
+    "streetNumber": "3",
+    "streetName": "Gould",
+    "streetType": "Street",
+    "city": "Brisbane",
+    "state": "QLD",
+    "photos": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2053&q=80"
+    ],
+    "marketType": "sell",
+    "price": 2200000
+  },
+  {
+    "type": "Townhouse",
+    "unit": "1",
+    "streetNumber": "4",
+    "streetName": "Fried",
+    "streetType": "Street",
+    "city": "Melbourne",
+    "state": "Vic",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 1200
+  },
+  {
+    "type": "Unit",
+    "unit": "6",
+    "streetNumber": "66",
+    "streetName": "Prolong",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1618221710640-c0eaaa2adb49?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1932&q=80"
+    ],
+    "marketType": "rent",
+    "price": 900
+  },
+  {
+    "type": "Unit",
+    "unit": "12",
+    "streetNumber": "5",
+    "streetName": "Curlewis",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1200000
+  },
+  {
+    "type": "Unit",
+    "unit": "5",
+    "streetNumber": "3",
+    "streetName": "Gould",
+    "streetType": "Street",
+    "city": "Brisbane",
+    "state": "QLD",
+    "photos": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2053&q=80"
+    ],
+    "marketType": "sell",
+    "price": 2200000
+  },
+  {
+    "type": "Unit",
+    "unit": "6",
+    "streetNumber": "66",
+    "streetName": "Prolong",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 800
+  },
+  {
+    "type": "Unit",
+    "unit": "12",
+    "streetNumber": "5",
+    "streetName": "Curlewis",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1200000
+  },
+  {
+    "type": "House",
+    "unit": "",
+    "streetNumber": "34",
+    "streetName": "Ramsgate",
+    "streetType": "Avenue",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1384&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1200000
+  },
+  {
+    "type": "Unit",
+    "unit": "5",
+    "streetNumber": "3",
+    "streetName": "Gould",
+    "streetType": "Street",
+    "city": "Brisbane",
+    "state": "QLD",
+    "photos": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2053&q=80"
+    ],
+    "marketType": "sell",
+    "price": 2200000
+  },
+  {
+    "type": "Unit",
+    "unit": "6",
+    "streetNumber": "66",
+    "streetName": "Prolong",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585152220-90363fe7e115?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 1100
+  },
+  {
+    "type": "Unit",
+    "unit": "12",
+    "streetNumber": "5",
+    "streetName": "Curlewis",
+    "streetType": "Street",
+    "city": "Sydney",
+    "state": "NSW",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585152915-d208bec867a1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2052&q=80"
+    ],
+    "marketType": "sell",
+    "price": 1200000
+  },
+  {
+    "type": "Townhouse",
+    "unit": "1",
+    "streetNumber": "4",
+    "streetName": "Fried",
+    "streetType": "Street",
+    "city": "Melbourne",
+    "state": "Vic",
+    "photos": [
+      "https://images.unsplash.com/photo-1560170412-0f7df0eb0fb1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTB8fGhvdXNlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    ],
+    "marketType": "rent",
+    "price": 1700
+  },
+  {
+    "type": "Townhouse",
+    "unit": "1",
+    "streetNumber": "4",
+    "streetName": "Fried",
+    "streetType": "Street",
+    "city": "Melbourne",
+    "state": "Vic",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 800
+  },
+  {
+    "type": "Townhouse",
+    "unit": "1",
+    "streetNumber": "4",
+    "streetName": "Fried",
+    "streetType": "Street",
+    "city": "Melbourne",
+    "state": "Vic",
+    "photos": [
+      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+    ],
+    "marketType": "rent",
+    "price": 5000
+  }
+]
